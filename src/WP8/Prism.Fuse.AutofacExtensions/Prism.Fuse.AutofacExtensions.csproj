@@ -120,9 +120,9 @@
     <Reference Include="Microsoft.Threading.Tasks.Extensions.Phone">
       <HintPath>..\..\packages\Microsoft.Bcl.Async.1.0.168\lib\wp8\Microsoft.Threading.Tasks.Extensions.Phone.dll</HintPath>
     </Reference>
-    <Reference Include="Prism.Fuse, Version=0.9.0.0, Culture=neutral, processorArchitecture=MSIL">
+    <Reference Include="Prism.Fuse, Version=0.9.5.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\packages\Prism.Fuse.0.9.4-beta\lib\wp8\Prism.Fuse.dll</HintPath>
+      <HintPath>..\..\packages\Prism.Fuse.0.9.5-beta\lib\wp8\Prism.Fuse.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
